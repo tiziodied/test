@@ -1,1 +1,115 @@
-
+{
+  "name": "Nulls Private Servers",
+  "subtitle": "Unofficial repository for all of the Nulls Team Apps",
+  "description": "Unofficial repository made by fil for all of the Nulls Team Apps\nHosting:\n• Nulls Brawl\n• Nulls Clash\n• Nulls Royale",
+  "iconURL": "https://i.imgur.com/ROCuAgb.png",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "nt.nb.ios"
+  ],
+  "apps": [
+    {
+      "name": "Nulls Clash",
+      "bundleIdentifier": "nt.nc.ios",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/uJXPBlt.png",
+      "tintColor": "#f27d0d",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://dnull.xyz/latest_coc_i",
+          "size": 419000000,
+          "version": "18.200.19",
+          "buildVersion": null,
+          "date": "2026-05-05T08:24:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSUserTrackingUsageDescription": "Clash of Clans would like permission to track you across apps and websites owned by other companies.\\n\\nYour data will be used for audience insights, analytics and improving our services.",
+          "NSPhotoLibraryUsageDescription": "Photo library access is needed if player wants to send screenshots to Supercell Player Support.",
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com",
+          "NSCameraUsageDescription": "Camera access is needed for scanning QR codes."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Nulls Royale",
+      "bundleIdentifier": "nt.nr.ios",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/es8XniT.png",
+      "tintColor": "#0a90f4",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://dnull.xyz/latest_cr_i",
+          "size": 1073700000,
+          "version": "14.593.1",
+          "buildVersion": null,
+          "date": "2026-05-05T08:21:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSCameraUsageDescription": "Camera access is needed to scan QR codes.",
+          "NSUserTrackingUsageDescription": "Clash Royale would like permission to track you across apps and websites owned by other companies. Your data will be used for audience insights, analytics and improving our services.",
+          "NSPhotoLibraryUsageDescription": "Photo library access is needed to send screenshots to Supercell Player Support."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Nulls Brawl",
+      "bundleIdentifier": "nt.nb.ios",
+      "marketplaceID": "",
+      "developerName": "Nulls Team",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/ROCuAgb.png",
+      "tintColor": "#8c1cd4",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://dnull.xyz/latest_bs_i",
+          "size": 1135900000,
+          "version": "67.264",
+          "buildVersion": null,
+          "date": "2026-05-05T07:55:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
+          "NSUserTrackingUsageDescription": "Allow tracking to get ads and offers on this app and ads for our games in other apps. We also use your data to generate audience insights, perform analytics and improve our services.",
+          "NSMotionUsageDescription": "Accelerometer permission is required to enable some in-game visual effects.",
+          "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
