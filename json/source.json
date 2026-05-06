@@ -13,8 +13,8 @@
     {
       "name": "Nulls Clash",
       "bundleIdentifier": "nt.nc.ios",
-      "marketplaceID": "",
       "developerName": "Nulls Team",
+      "downloadURL": "https://dnull.xyz/latest_coc_i",
       "subtitle": "",
       "localizedDescription": "",
       "iconURL": "https://i.imgur.com/uJXPBlt.png",
@@ -46,8 +46,8 @@
     {
       "name": "Nulls Royale",
       "bundleIdentifier": "nt.nr.ios",
-      "marketplaceID": "",
       "developerName": "Nulls Team",
+      "downloadURL": "https://dnull.xyz/latest_cr_i",
       "subtitle": "",
       "localizedDescription": "",
       "iconURL": "https://i.imgur.com/es8XniT.png",
@@ -79,8 +79,8 @@
     {
       "name": "Nulls Brawl",
       "bundleIdentifier": "nt.nb.ios",
-      "marketplaceID": "",
       "developerName": "Nulls Team",
+      "downloadURL": "https://dnull.xyz/latest_bs_i",
       "subtitle": "",
       "localizedDescription": "",
       "iconURL": "https://i.imgur.com/ROCuAgb.png",
