@@ -14,12 +14,12 @@
       "name": "Nulls Clash",
       "bundleIdentifier": "nt.nc.ios",
       "marketplaceID": "",
-      "developerName": "Example Developer",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "developerName": "Nulls Team",
+      "subtitle": "",
+      "localizedDescription": "",
       "iconURL": "https://i.imgur.com/uJXPBlt.png",
       "tintColor": "#f27d0d",
-      "category": "other",
+      "category": "games",
       "screenshots": [],
       "versions": [
         {
@@ -47,12 +47,12 @@
       "name": "Nulls Royale",
       "bundleIdentifier": "nt.nr.ios",
       "marketplaceID": "",
-      "developerName": "Example Developer",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "developerName": "Nulls Team",
+      "subtitle": "",
+      "localizedDescription": "",
       "iconURL": "https://i.imgur.com/es8XniT.png",
       "tintColor": "#0a90f4",
-      "category": "other",
+      "category": "games",
       "screenshots": [],
       "versions": [
         {
